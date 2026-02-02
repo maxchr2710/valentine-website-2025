@@ -53,7 +53,14 @@ const CONFIG = {
         message: "I can´t wait to see you again!",
         emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
-
+    
+  // Messages that appear after they say "I can´t wait to see you again!"
+    celebration: {
+        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        message: "I can´t wait to see you again!",
+        emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
+    },
+    
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
