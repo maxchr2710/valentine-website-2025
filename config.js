@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '❣️', '🦋', '🧡', '🌹'],  // Heart emojis
-        bears: ['🧸', '💌']                       // Cute bear emojis
+        hearts: ['❤️', '❣️', '💌', '🧡', '🌹'],  // Heart emojis
+        bears: ['🧸', '🦋']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "3,5 years with u ❤️ Can't wait to see you again! 🥹😍❤️",
+        title: "3,5 years with u ❤️ Can't wait to see u again! 😍❤️",
         message: "Yay! I'm the luckiest person in the world!",
         emojis: "🔐🌎✨🌹❤️"  // These will bounce around
     },
